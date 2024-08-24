@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Snake Game
 This is a classic Snake Game implemented in Java using the Swing library. The game is simple, addictive, and a great way to have some fun while practicing your coding skills.
 
@@ -49,4 +50,3 @@ Speed: The game speed is controlled by a delay of 75 milliseconds between moves.
 Customization: Feel free to modify the colors, speed, and size to make the game more challenging or visually appealing.
 Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request. Issues and feature requests are welcome!
-
