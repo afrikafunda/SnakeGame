@@ -18,7 +18,7 @@ This is a classic Snake game implemented in Java. The game features a simple gra
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/afrikafunda/snake-game.git
     ```
 
 2. Navigate to the project directory:
